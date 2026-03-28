@@ -29,6 +29,7 @@ All projects are organized under the `linux-x86_64/` folder. Each project has it
   *  hello-wait-world -> hello-wait-world.asm
   *  hello-wait-world-inline -> hello-wait-world-inline.asm
   *  hello-world-two-times -> hello-world-two-times.asm
+  *  hello-world-infinite -> hello-world-infinite.asm
 
 
 ## Usage
